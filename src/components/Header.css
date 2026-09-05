@@ -1,0 +1,25 @@
+.header a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.header
+{
+    background-color: #19192d;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: aliceblue;
+    padding: 0.875rem 1.563rem;
+}
+
+.header__title
+{
+    color: #d9425b;
+}
+
+.header__nav
+{
+    display: flex;
+    gap: 0.875rem;
+}
