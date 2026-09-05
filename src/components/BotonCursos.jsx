@@ -3,7 +3,7 @@ import './BotonCursos.css'
 function BotonCursos()
 { 
     return (
-        <button className="botonCursos">Ver Cursos</button>
+        <a href='#Cursos' className="botonCursos">Ver Cursos</a>
     )
 }
 

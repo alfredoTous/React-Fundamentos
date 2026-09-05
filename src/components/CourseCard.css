@@ -10,6 +10,13 @@
     width: 16rem;
     height: 15rem;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+    transition: ease 400ms;
+}
+
+.card:hover
+{
+    cursor: pointer;
+    scale: 1.05;
 }
 
 .card__icon
