@@ -1,0 +1,21 @@
+
+.counterSection
+{
+    padding-top: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #171e38;
+}
+
+.counterSection h2
+{
+    font-size: 1.953rem;
+    color: aliceblue;
+    margin-bottom: 0.5rem;
+}
+
+.counterSection p
+{
+    color: #9699a1;
+}

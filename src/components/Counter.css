@@ -1,0 +1,25 @@
+
+
+.counter
+{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+    width: 20rem;
+    height: 8.5rem;
+    border-radius: 1rem;
+    background-color: #172448;
+    color: #d9425b;
+    font-weight: bold;
+    font-size: 4rem;
+    box-shadow: 0 0 0.5rem #172448;
+}
+
+.counter span {
+    text-align: center;
+    width: 4rem;
+}
+
+
