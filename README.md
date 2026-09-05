@@ -1,7 +1,7 @@
 # Taller React Fundamentos
 
 ## Demo
-https://github.com/user-attachments/assets/af0f23b8-3038-4c10-9a59-a9c7f3071e3a
+https://github.com/user-attachments/assets/8d36b44d-d234-41d5-9751-9962a22464e8
 
 ### Setup
 ```bash
