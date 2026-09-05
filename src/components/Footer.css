@@ -1,0 +1,14 @@
+
+.footer
+{
+    display: flex;
+    justify-content: center;
+    background-color: #111;
+    color: #747674;
+}
+
+.footer a
+{
+    text-decoration: none;
+    color: #e24360;
+}

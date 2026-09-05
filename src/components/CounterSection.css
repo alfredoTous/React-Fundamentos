@@ -6,6 +6,7 @@
     flex-direction: column;
     align-items: center;
     background-color: #171e38;
+    padding-bottom: 5rem;
 }
 
 .counterSection h2
