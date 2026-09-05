@@ -1,4 +1,4 @@
-import './botonCursos.css'
+import './BotonCursos.css'
 
 function BotonCursos()
 { 

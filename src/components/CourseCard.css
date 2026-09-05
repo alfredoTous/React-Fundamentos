@@ -1,0 +1,16 @@
+
+.card
+{
+    border: 0.5rem;
+    border-radius: 0.5rem;
+    background-color: #fff;
+    padding: 1rem;
+    width: 16rem;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+
+.card__icon
+{
+    width: 2.5rem;
+}
