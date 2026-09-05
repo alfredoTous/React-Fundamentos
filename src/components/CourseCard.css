@@ -1,16 +1,49 @@
 
 .card
 {
+    display: flex;
+    flex-direction: column;
     border: 0.5rem;
     border-radius: 0.5rem;
     background-color: #fff;
-    padding: 1rem;
+    padding: 1.5rem 1rem 0rem 1rem;
     width: 16rem;
+    height: 15rem;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
-
 
 .card__icon
 {
     width: 2.5rem;
 }
+
+.card__paragraph
+{
+    height: 2rem;
+}
+
+.card__difficulty
+{
+    text-align: center;
+    font-size: 0.875rem;
+    color: #fff;
+    padding: 0.45rem;
+    border-radius: 1rem;
+    width: 5rem;
+}
+
+.card__difficulty--principiante
+{
+    background-color: hsl(120, 100%, 30%);
+}
+
+.card__difficulty--intermedio
+{
+    background-color: hsl(30, 100%, 45%);
+}
+
+.card__difficulty--avanzado
+{
+    background-color: #e34b64;
+}
+
