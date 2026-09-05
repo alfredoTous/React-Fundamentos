@@ -1,0 +1,28 @@
+.banner
+{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #171e38;
+    color: aliceblue;
+    padding: 4.76rem 0rem;
+    gap: 1rem;
+}
+
+.banner__title
+{
+    font-size: 2.441rem;
+    margin-bottom: 0rem;
+}
+
+.banner--highlight-text
+{
+    color: #d9425b;
+}
+
+.banner__paragraph
+{
+    color: #9699a1;
+    width: 25rem;
+    text-align: center;
+}

@@ -4,7 +4,7 @@ function Header()
 {
     return (
         <div className="header">
-            <a href="#"><h1 className="header__title">ReactAcademy</h1></a>
+            <a href="#"><h2 className="header__title">ReactAcademy</h2></a>
             <nav className="header__nav">
             <a href="#Inicio">Inicio</a>
             <a href="#Cursos">Cursos</a>
