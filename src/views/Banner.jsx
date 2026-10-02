@@ -1,4 +1,4 @@
-import BotonCursos from "./BotonCursos";
+import BotonCursos from "../components/BotonCursos";
 import './Banner.css'
 
 function Banner()

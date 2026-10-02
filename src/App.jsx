@@ -1,10 +1,10 @@
 import Header from "./components/Header";
-import Banner from "./components/Banner";
-import CoursesSection from "./components/CoursesSection";
-import CounterSection from "./components/CounterSection";
+import Banner from "./views/Banner";
+import CoursesSection from "./views/CoursesSection";
+import CounterSection from "./views/CounterSection";
 import Footer from "./components/Footer"
-import Login from "./components/Login"
-import PaginaNoEncontrada from "./components/PaginaNoEncontrada"
+import Login from "./views/Login"
+import PaginaNoEncontrada from "./views/PaginaNoEncontrada"
 import './App.css'
 
 import { Routes, Route } from 'react-router';

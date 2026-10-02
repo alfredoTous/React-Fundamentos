@@ -1,4 +1,4 @@
-import CourseCard from "./CourseCard";
+import CourseCard from "../components/CourseCard";
 import './CoursesSection.css';
 
 import reactIcon  from '../assets/react-icon-svg.webp'

@@ -1,5 +1,5 @@
 import './CounterSection.css'
-import Counter from './Counter';
+import Counter from '../components/Counter';
 
 function CounterSection()
 {
