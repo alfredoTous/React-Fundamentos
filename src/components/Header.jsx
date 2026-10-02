@@ -1,14 +1,15 @@
 import './Header.css'
+import { Link } from "react-router"
 
 function Header()
 {
     return (
         <div id='Inicio' className="header">
-            <a href="#"><h2 className="header__title">ReactAcademy</h2></a>
+            <Link to="/"><h2 className='header__title'>ReactAcademy</h2></Link>
             <nav className="header__nav">
-            <a href="#Inicio">Inicio</a>
-            <a href="#Cursos">Cursos</a>
-            <a href="#Nosotros">Nosotros</a>
+            <Link to="/">Inicio</Link>
+            <Link to="/cursos">Cursos</Link>
+            <Link to="/nosotros">Nosotros</Link>
             </nav>
         </div>
     )

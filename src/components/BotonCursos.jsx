@@ -1,9 +1,10 @@
 import './BotonCursos.css'
+import { Link } from 'react-router';
 
 function BotonCursos()
 { 
     return (
-        <a href='#Cursos' className="botonCursos">Ver Cursos</a>
+        <Link to="/cursos" className="botonCursos">Ver Cursos</Link>
     )
 }
 

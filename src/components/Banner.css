@@ -3,10 +3,11 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #171e38;
     color: aliceblue;
-    padding: 4.76rem 0rem;
+    padding: 10.5rem 0rem;
     gap: 1rem;
+    flex: 1;
+    background: linear-gradient(#171e38, #223475);
 }
 
 .banner__title

@@ -1,7 +1,8 @@
 
 .counterSection
 {
-    padding-top: 2.5rem;
+    flex: 1;
+    padding-top: 10rem;
     display: flex;
     flex-direction: column;
     align-items: center;

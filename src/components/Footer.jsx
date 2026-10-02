@@ -1,11 +1,12 @@
 import './Footer.css'
+import { Link } from 'react-router'
 
 function Footer()
 {
     return (
         <div className="footer">
             <p>
-                © 2026 <a href="#Inicio">ReactAcademy</a>. Taller02 -- React Fundamentos.
+                © 2026 <Link to="/">ReactAcademy</Link>. Taller02 -- React Fundamentos.
             </p>
         </div>
     )
